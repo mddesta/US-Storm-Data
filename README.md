@@ -1,2 +1,19 @@
 # US-Storm-Data
-Tableau visualization of 20 years of storm data from the National Oceanic and Atmospheric Administration (NOAA).
+
+## Background 
+A Tableau dashboard to visualize the trends in US storm data from 1998-2018. 
+
+## Technologies 
+
+* Python
+* Pandas
+* Tableau
+
+## Data
+
+[National Oceanic and Atmospheric Adminstration Database](https://www1.ncdc.noaa.gov/pub/data/swdi/stormevents/csvfiles/)
+
+## Visualization 
+
+![Tableau Dashboard](https://github.com/mddesta/US-Storm-Data/blob/master/Image/Tableau%20Dashboard.PNG)
+
